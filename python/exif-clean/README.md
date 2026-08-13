@@ -16,22 +16,22 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Dry Run (Preview matching files)
+### 1. Dry Run (Preview matching files)
 ```bash
 python exif_clean.py /path/to/photos -r -n
 ```
 
-2. Scrub a Directory (Outputs to a new `photos_clean/` directory)
+### 2. Scrub a Directory (Outputs to a new `photos_clean/` directory)
 ```bash
 python exif_clean.py /path/to/photos -r
 ```
 
-3. Scrub In-Place and Preserve Original File Timestamps
+### 3. Scrub In-Place and Preserve Original File Timestamps
 ```bash
 python exif_clean.py /path/to/photos -r -i -p
 ```
 
-4. Output to a Custom Folder
+### 4. Output to a Custom Folder
 ```bash
 python exif_clean.py /path/to/photos -r -o /path/to/sanitized_photos
 ```
