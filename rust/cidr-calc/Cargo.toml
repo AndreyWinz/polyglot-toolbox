@@ -1,0 +1,9 @@
+[package]
+name = "cidr-calc"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name"]
+description = "Zero-dependency IPv4/IPv6 CIDR subnet calculator."
+
+[dependencies]
+# Zero external dependencies!
