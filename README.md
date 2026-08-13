@@ -40,22 +40,22 @@ polyglot-toolbox/
 
 | Tool     | Description                                                    | Status  |
 |----------|----------------------------------------------------------------|---------|
-| `hexview`  | Colorised terminal hex/binary inspector with byte-type tagging | $\color{#FFD300}{\text{Planned}}$ |
-| `tty-dump` | High-precision microsecond-timestamped serial/TTY logger       | $\color{#FFD300}{\text{Planned}}$ |
+| `hexview`  | Colorised terminal hex/binary inspector with byte-type tagging | $\color{#008000}{\text{Completed}}$ |
+| `tty-dump` | High-precision microsecond-timestamped serial/TTY logger       | $\color{#008000}{\text{Completed}}$ |
 
 ### Python
 
 | Tool     | Description                                                    | Status  |
 |----------|----------------------------------------------------------------|---------|
-| `exif-clean`  | Recursive EXIF & metadata scrubber for images | $\color{#FFD300}{\text{Planned}}$ |
-| `net-check` | Async port & endpoint monitor with terminal feedback       | $\color{#FFD300}{\text{Planned}}$ |
+| `exif-clean`  | Recursive EXIF & metadata scrubber for images | $\color{#008000}{\text{Completed}}$ |
+| `net-check` | Async port & endpoint monitor with terminal feedback       | $\color{#008000}{\text{Completed}}$|
 
 ### Rust
 
 | Tool     | Description                                                    | Status  |
 |----------|----------------------------------------------------------------|---------|
-| `dup-find`  | Multi-threaded duplicate file finder using size & partial hashing | $\color{#FFD300}{\text{Planned}}$ |
-| `cidr-calc` | Zero-dependency IPv4/IPv6 CIDR subnet calculator       | $\color{#FFD300}{\text{Planned}}$ |
+| `dup-find`  | Multi-threaded duplicate file finder using size & partial hashing | $\color{#008000}{\text{Completed}}$ |
+| `cidr-calc` | Zero-dependency IPv4/IPv6 CIDR subnet calculator       | $\color{#008000}{\text{Completed}}$ |
 
 
 ## Future Languages
