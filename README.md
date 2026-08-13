@@ -29,6 +29,7 @@ polyglot-toolbox/
 │   └── cidr-calc/
 # ── Future expansion (Go, Zig, Shell, C++, etc.) ──
 ├── LICENSE
+├── .gitattributes
 ├── .gitignore
 └── README.md
 ```
