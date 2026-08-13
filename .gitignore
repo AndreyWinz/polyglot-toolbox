@@ -1,0 +1,98 @@
+# ==========================================
+# General System & OS Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# ==========================================
+# Editor & IDE Directories
+# ==========================================
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+
+# ==========================================
+# C / C++ Build Artifacts
+# ==========================================
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.elf
+*.bin
+*.out
+
+# Standard build outputs
+bin/
+build/
+dist/
+.objs/
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Packaging / Distributions
+.eggs/
+*.egg-info/
+*.egg
+
+# ==========================================
+# Rust
+# ==========================================
+target/
+**/*.rs.bk
+*.rmeta
+
+# Note: Keep Cargo.lock in version control if nested crates are binaries, 
+# but if you prefer lockfiles ignored across all sub-crates, uncomment below:
+# Cargo.lock
+
+# ==========================================
+# Future Expansion Languages
+# ==========================================
+
+# Go
+# *.exe
+# *.exe~
+# *.test
+# vendor/
+
+# Zig
+# zig-cache/
+# zig-out/
+
+# Node / JS / TS
+# node_modules/
+# npm-debug.log*
