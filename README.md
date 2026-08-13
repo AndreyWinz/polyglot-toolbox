@@ -40,7 +40,7 @@ polyglot-toolbox/
 
 | Tool     | Description                                                    | Status  |
 |----------|----------------------------------------------------------------|---------|
-| `hexview`  | Colorised terminal hex/binary inspector with byte-type tagging | $\color{#008000}{\text{Completed}}$ |
+| `hexview`  | Colourised terminal hex/binary inspector with byte-type tagging | $\color{#008000}{\text{Completed}}$ |
 | `tty-dump` | High-precision microsecond-timestamped serial/TTY logger       | $\color{#008000}{\text{Completed}}$ |
 
 ### Python
@@ -56,6 +56,27 @@ polyglot-toolbox/
 |----------|----------------------------------------------------------------|---------|
 | `dup-find`  | Multi-threaded duplicate file finder using size & partial hashing | $\color{#008000}{\text{Completed}}$ |
 | `cidr-calc` | Zero-dependency IPv4/IPv6 CIDR subnet calculator       | $\color{#008000}{\text{Completed}}$ |
+
+### C++
+
+| Tool     | Description                                                    | Status  |
+|----------|----------------------------------------------------------------|---------|
+| `wave-gen`  | Raw PCM & WAV signal generator (sine, square, sawtooth, DTMF tones, Morse code CW) | $\color{#008000}{\text{Completed}}$ |
+| `udp-bench` | High-throughput UDP socket benchmark and packet loss analyser       | $\color{#008000}{\text{Completed}}$ |
+
+### C#
+
+| Tool     | Description                                                    | Status  |
+|----------|----------------------------------------------------------------|---------|
+| `dll-inspect`  | .NET assembly inspector (lists namespaces, class hierarchies, public API surface, dependencies) | $\color{#008000}{\text{Completed}}$ |
+| `env-vault` | Encrypted `.env` secrets manager using AES-256-GCM and PBKDF2 key derivation       | $\color{#008000}{\text{Completed}}$ |
+
+### R
+
+| Tool     | Description                                                    | Status  |
+|----------|----------------------------------------------------------------|---------|
+| `eda-cli`  | Terminal exploratory data analysis tool for CSV/TSV with ASCII distribution histograms | $\color{#008000}{\text{Completed}}$ |
+| `log-trend` | Telemetry and time-series log analyser with moving averages and outlier detection       | $\color{#008000}{\text{Completed}}$ |
 
 
 ## Future Languages
