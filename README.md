@@ -79,6 +79,26 @@ polyglot-toolbox/
 | `eda-cli`  | Terminal exploratory data analysis tool for CSV/TSV with ASCII distribution histograms | $\color{#008000}{\text{Completed}}$ |
 | `log-trend` | Telemetry and time-series log analyser with moving averages and outlier detection       | $\color{#008000}{\text{Completed}}$ |
 
+### Java
+
+| Tool     | Description                                                    | Status  |
+|----------|----------------------------------------------------------------|---------|
+| `class-dump`  | Zero-dependency JVM `.class` and `.jar` bytecode structure inspector, constant pool reader, and disassembler overview. | $\color{#008000}{\text{Completed}}$ |
+| `heap-lens` | Lightweight HPROF heap dump and GC log summary analyser for memory leak diagnosis and object allocation profiling.       | $\color{#008000}{\text{Completed}}$ |
+
+### JavaScript (Node.js)
+
+| Tool     | Description                                                    | Status  |
+|----------|----------------------------------------------------------------|---------|
+| `npm-audit-tree`  | Dependency graph visualizer and vulnerability scanner for `package.json` and `package-lock.json` with zero third-party packages. | $\color{#008000}{\text{Completed}}$ |
+| `json-diff-cli` | Structural JSON and API payload comparison tool with colourised unified diffing and field-level variance analysis.       | $\color{#008000}{\text{Completed}}$ |
+
+### TypeScript
+
+| Tool     | Description                                                    | Status  |
+|----------|----------------------------------------------------------------|---------|
+| `ts-type-expand`  | AST-based type definition flattener and generic type inspector that resolves deep dynamic interfaces and union types. | $\color{#008000}{\text{Completed}}$ |
+| `openapi-mock-cli` | Zero-config local mock server that parses OpenAPI / Swagger specs and generates dynamic, typed mock endpoints.       | $\color{#008000}{\text{Completed}}$ |
 
 ## Future Languages
 
